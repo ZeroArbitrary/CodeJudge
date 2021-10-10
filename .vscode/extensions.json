@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "adrianwilczynski.add-reference",
+        "ms-dotnettools.csharp",
+        "adrianwilczynski.namespace",
+        "k--kato.docomment",
+        "github.vscode-pull-request-github",
+        "redhat.vscode-xml",
+        "fernandoescolar.vscode-solution-explorer"
+    ]
+}

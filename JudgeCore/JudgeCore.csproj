@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <Nullable>enable</Nullable>
+	  <EnableNETAnalyzers>false</EnableNETAnalyzers> 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LocalQuestionService\LocalQuestionService.csproj" />
+    <ProjectReference Include="..\Protocol\Protocol.csproj" />
+    <ProjectReference Include="..\Utilities\Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
